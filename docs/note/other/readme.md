@@ -1,0 +1,3 @@
+# Other
+
+Uncategorized notes

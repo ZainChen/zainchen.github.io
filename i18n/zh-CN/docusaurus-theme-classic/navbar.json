@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Zaindoc",
+    "description": "The title in the navbar"
+  },
+  "item.label.Note": {
+    "message": "笔记",
+    "description": "Navbar item with label Note"
+  },
+  "item.label.Doc": {
+    "message": "文档",
+    "description": "Navbar item with label Doc"
+  },
+  "item.label.Blog": {
+    "message": "博客",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Zain": {
+    "message": "Zain",
+    "description": "Navbar item with label Zain"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

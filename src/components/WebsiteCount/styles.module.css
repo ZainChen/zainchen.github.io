@@ -1,0 +1,27 @@
+.websiteCount {
+  flex: 1;
+  display: inline-block;
+  margin-bottom: 0.8rem;
+  margin-left: 0.4rem;
+}
+
+.websiteCount > div {
+  display: inline-flex;
+  align-items: center;
+}
+
+.svgSiteCount {
+  padding-top: 0.2rem;
+}
+
+.svgSiteCount > svg {
+  height: 24px;
+  width: 24px;
+  color: var(--ifm-font-color-base);
+  margin-left: 0.8rem;
+  margin-right: 0.2rem;
+}
+
+.svgSiteCount > span {
+  font-size: 0.8rem;
+}
