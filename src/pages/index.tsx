@@ -51,7 +51,7 @@ function HomepageHeader() {
               </p>
             </animated.div>
             <animated.div style={animatedTexts[2]}>
-              <Link className="button button--secondary button--lg" to="/zaindoc">
+              <Link className="button button--secondary button--lg" to="https://zainjane.com/zaindoc">
                 Zaindoc
               </Link>
             </animated.div>
