@@ -5,7 +5,7 @@
   },
   "theme.ErrorPageContent.tryAgain": {
     "message": "重试",
-    "description": "The label of the button to try again when the page crashed"
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.NotFound.title": {
     "message": "找不到页面",
@@ -295,5 +295,13 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "homepage.title": {
+    "message": "嗨, 我是志银",
+    "description": "The homepage welcome message"
+  },
+  "homepage.description": {
+    "message": "记录所有我感兴趣的事物。",
+    "description": "The homepage description"
   }
 }
